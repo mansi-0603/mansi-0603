@@ -22,7 +22,7 @@
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=mansi-0603&style=for-the-badge&color=blue)
 
 </div>
 
@@ -89,7 +89,7 @@ public:
 ## Database (Currently Learning)
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql, mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ## Tools
