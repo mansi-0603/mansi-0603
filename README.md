@@ -8,11 +8,11 @@
 
 <p>
 
-<!-- <a href="YOUR_PORTFOLIO">
+<!--  href="YOUR_PORTFOLIO">
 <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge"/>
 </a> -->
 
-<a href="https://www.linkedin.com/in/mansi-srivastava-b43820292/">
+<a <!--  href="https://www.linkedin.com/in/mansi-srivastava-b43820292/" --> >
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -203,7 +203,7 @@ A responsive portfolio website showcasing my projects, skills, and development j
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mansi-srivastava-b43820292/">
+<a <!--href="https://www.linkedin.com/in/mansi-srivastava-b43820292/" --> >
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -211,7 +211,7 @@ A responsive portfolio website showcasing my projects, skills, and development j
 <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge"/>
 </a> -->
 
-<a href="srimansi2006@gmail.com">
+<a <!-- href="srimansi2006@gmail.com" --> >
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
