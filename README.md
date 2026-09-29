@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! 👋 I'm Mansi Srivastava
+# Hi there! 👋 I'm Mansi 
 
 ### Aspiring Software Engineer | C++ • Java • JavaScript • React Learner
 
