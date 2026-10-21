@@ -80,13 +80,13 @@ public:
 <img src="https://skillicons.dev/icons?i=react,vite" />
 </p>
 
-## Backend (Currently Learning)
+## Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-## Database (Currently Learning)
+## Database 
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
@@ -158,7 +158,6 @@ A responsive portfolio website showcasing my projects, skills, and development j
 # 📚 Currently Working On
 
 - 📖 Solving Data Structures & Algorithms problems in **C++**
-- ⚛️ Learning React.js
 - 🌐 Building Full Stack Web Applications
 - 💻 Strengthening C++ fundamentals
 - 🎯 Preparing for Software Engineering interviews
