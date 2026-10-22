@@ -219,7 +219,7 @@ public:
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:srimansi2006@example.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
