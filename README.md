@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | SDE Aspirant | MERN Stack • C++ • JavaScript
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Building+Full+Stack+MERN+Applications;Data+Structures+%26+Algorithms+in+C%2B%2B;Preparing+for+Software+Engineering+Roles;Learning+by+Building+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Building+Full+Stack+MERN+Applications;Data+Structures+%26+Algorithms+in+C%2B%2B;Preparing+for+Software+Engineering+Roles;Learning+by+Building" alt="Typing animation" />
 
 <p>
 
@@ -18,7 +18,7 @@
 
 </p>
 
-![](https://komarev.com/ghpvc/?username=mansi-0603&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=mansi-0603&label=Profile%20Views&style=for-the-badge&color=blue)
 
 </div>
 
@@ -131,7 +131,7 @@ public:
 
 ---
 
-## 🍕 QuickBite App | Full-Stack Ordering Platform (Storefront + Admin Panel)
+## 🍕 Food Delivery App | Full-Stack Ordering Platform (Storefront + Admin Panel)
 
 - Developed a MERN food ordering platform with three parts: a customer **storefront**, an **admin dashboard** and a **REST API**
 - Built secure **user registration and login** using **JWT** tokens and **bcrypt** password hashing
@@ -219,7 +219,7 @@ public:
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:srimansi2006@example.com">
+<a href="srimansi2006@example.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
