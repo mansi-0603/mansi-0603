@@ -2,9 +2,9 @@
 
 # Hi there! 👋 I'm Mansi
 
-### Aspiring Full Stack Developer | MERN Stack • C++ • JavaScript
+### Full Stack Developer | SDE Aspirant | MERN Stack • C++ • JavaScript
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+Full+Stack+MERN+Applications;Data+Structures+%26+Algorithms+in+C%2B%2B;Learning+by+Building+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Building+Full+Stack+MERN+Applications;Data+Structures+%26+Algorithms+in+C%2B%2B;Preparing+for+Software+Engineering+Roles;Learning+by+Building+🚀" />
 
 <p>
 
@@ -30,7 +30,7 @@
 class Mansi {
 public:
 
-    string role = "Final Year B.Tech Student";
+    string role = "Final Year B.Tech Student | Aspiring Full Stack Developer & SDE";
 
     vector<string> techStack = {
         "MongoDB", "Express.js", "React.js", "Node.js"
@@ -45,16 +45,31 @@ public:
     vector<string> currentlyLearning = {
         "Data Structures & Algorithms (C++)",
         "Advanced MERN concepts",
+        "System design basics",
         "Problem Solving"
     };
 
     string currentFocus =
-        "Building full stack MERN applications while strengthening DSA in C++.";
+        "Building full stack MERN applications while strengthening DSA in C++ for SDE roles.";
 
     string goal =
         "To become a Software Engineer who builds scalable and impactful software.";
 };
 ```
+
+---
+
+# 🎯 Key Skills
+
+**Full Stack Development:** MERN Stack, React.js, Node.js, Express.js, MongoDB, REST API design, JWT authentication, role-based access, Stripe integration, file upload
+
+**Programming:** C++, JavaScript (ES6+), Java (basics), HTML5, CSS3
+
+**Core CS:** Data Structures & Algorithms, Problem Solving, OOP, DBMS basics
+
+**Tools:** Git, GitHub, VS Code, Postman, Vite, Vercel
+
+> Open to **Full Stack Developer** and **Software Development Engineer (SDE)** opportunities.
 
 ---
 
@@ -100,35 +115,38 @@ public:
 
 # 🚀 Featured MERN Stack Projects
 
-## 🍕 Food Delivery App
+## 🤖 Interview AI | AI-Powered Interview Preparation Platform
 
-A full-stack food ordering platform with a customer storefront, an admin dashboard, and a REST API. Customers can browse the menu, manage a cart, pay with Stripe, and view their orders. Admins can add or remove dishes with image uploads and update order statuses.
+- Built a full-stack MERN application that analyses a resume (PDF/DOCX) or a short self-description against a job description using the **Google Gemini API**
+- Generates a **match score**, a **skill-gap analysis** ranked by severity, **technical and behavioural interview questions**, and a step-by-step **preparation road map**
+- Implemented **JWT authentication** with protected routes and cookie-based sessions
+- Handled resume uploads with **Multer** and processed file content on the server before sending it to the AI model
+- Stored every interview plan in **MongoDB (Mongoose)** and listed recent plans on the home page for quick access
+- Structured the REST API into routes, controllers, middlewares and services for clean, maintainable code
+- Designed a responsive React (Vite) interface with a report view, section navigation and resume download
 
-**Highlights:** JWT authentication • Stripe payments • Image uploads with Multer • Separate admin panel
+**Tech:** `MongoDB` `Express.js` `React` `Node.js` `Gemini API` `JWT` `Multer` `REST API`
 
-**Tech**
-
-`MongoDB` `Express.js` `React` `Node.js` `Stripe` `JWT`
-
-[🔗 View Repository](https://github.com/mansi-0603/YOUR_FOOD_DELIVERY_REPO)
-
----
-
-## 💼 Job Portal
-
-A job portal where candidates can browse and apply for jobs and recruiters can post and manage openings.
-
-> ✏️ Edit this description to match your exact features (roles, search/filters, resume upload, etc.).
-
-**Tech**
-
-`MongoDB` `Express.js` `React` `Node.js`
-
-[🔗 View Repository](https://github.com/mansi-0603/YOUR_JOB_PORTAL_REPO)
+[🔗 View Repository](https://github.com/mansi-0603/interview-ai)
 
 ---
 
-## 🔜 Project 3 — Coming Soon
+## 🍕 Food Delivery App | Full-Stack Ordering Platform (Storefront + Admin Panel)
+
+- Developed a MERN food ordering platform with three parts: a customer **storefront**, an **admin dashboard** and a **REST API**
+- Built secure **user registration and login** using **JWT** tokens and **bcrypt** password hashing
+- Integrated **Stripe** checkout with payment verification and per-user **order history**
+- Implemented a **persistent cart** and category-based menu browsing using React **Context API**
+- Added **admin features** to add dishes with **image upload (Multer)**, delete menu items, and update order status
+- Created modular API endpoints for users, food, cart and orders, protected by auth middleware
+
+**Tech:** `MongoDB` `Express.js` `React` `Node.js` `Stripe` `JWT` `bcrypt` `Multer` `REST API`
+
+[🔗 View Repository](https://github.com/mansi-0603/Food-Delivery-App)
+
+---
+
+## 🔜 Project 4: Coming Soon
 
 *Details to be added.*
 
@@ -152,10 +170,10 @@ A job portal where candidates can browse and apply for jobs and recruiters can p
 
 # 📚 Currently Working On
 
-- 📖 Solving Data Structures & Algorithms problems in **C++**
+- 📖 Solving Data Structures & Algorithms problems in **C++** ([leetcode-solutions](https://github.com/mansi-0603/leetcode-solutions))
 - 🌐 Building more full stack MERN applications
-- 💻 Strengthening C++ fundamentals
-- 🎯 Preparing for Software Engineering interviews
+- 💻 Strengthening C++ fundamentals and core CS concepts
+- 🎯 Preparing for Full Stack Developer and SDE interviews
 
 ---
 
