@@ -131,7 +131,7 @@ public:
 
 ---
 
-## 🍕 Food Delivery App | Full-Stack Ordering Platform (Storefront + Admin Panel)
+## 🍕 QuickBite App | Full-Stack Ordering Platform (Storefront + Admin Panel)
 
 - Developed a MERN food ordering platform with three parts: a customer **storefront**, an **admin dashboard** and a **REST API**
 - Built secure **user registration and login** using **JWT** tokens and **bcrypt** password hashing
