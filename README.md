@@ -18,7 +18,7 @@
 
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mansi-0603&label=Profile%20Views&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=mansi-0603&style=for-the-badge&color=blue)
 
 </div>
 
@@ -219,7 +219,7 @@ public:
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="srimansi2006@example.com">
+<a href="mailto:srimansi2006@example.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
